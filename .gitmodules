@@ -1,0 +1,6 @@
+[submodule "gokarna"]
+	path = gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "hugo-swift-theme"]
+	path = hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
