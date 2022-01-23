@@ -44,13 +44,23 @@ pygmentsCodefencesGuessSyntax = true
 [menu]
   [[menu.main]]
     name = "Nueva York"
-    url = "ny/"
+    url = "post/ny/"
     weight = 2
   [[menu.main]]
     name = "Edimburgo"
-    url = "categories/Edimburgo/"
+    url = "post/edimburgo/"
     weight = 3
   [[menu.main]]
-    name = "Favoritos"
-    url = "tags/Favoritos/"
+    name = "Italia"
+    url = "post/italia/"
+    weight = 3
+  [[menu.main]]
+    name = "Mi viaje favorito"
+    url = "post/amsterdan/"
     weight = 5
+  [[menu.main]]
+    identifier = "contacto"
+    name = "Contacto"
+    title = "Contacto"
+    url = "/contacto/"
+    weight = 0
