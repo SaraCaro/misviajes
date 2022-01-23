@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
   [params.designer]
     name = "Sara"
-    url = "https://www.youtube.com/"
+    url = "https://www.instagram.com/"
   [[params.authors]]
     name = "yourName" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
     fullName = "Your Full Name" # optional. If set, it will display on author card
@@ -43,18 +43,14 @@ pygmentsCodefencesGuessSyntax = true
 
 [menu]
   [[menu.main]]
-    name = "Hola"
-    url = "about/"
+    name = "Nueva York"
+    url = "ny/"
     weight = 2
   [[menu.main]]
-    name = "Development"
-    url = "categories/development/"
+    name = "Edimburgo"
+    url = "categories/Edimburgo/"
     weight = 3
   [[menu.main]]
-    name = "Golang"
-    url = "categories/golang/"
-    weight = 4
-  [[menu.main]]
-    name = "Go"
-    url = "tags/go/"
+    name = "Favoritos"
+    url = "tags/Favoritos/"
     weight = 5
