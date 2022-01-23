@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/post/amsterdan/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/edimburgo/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/italia/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/ny/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2022-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/contacto/</loc>
+    <lastmod>2022-01-18T20:10:36+01:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+</urlset>
