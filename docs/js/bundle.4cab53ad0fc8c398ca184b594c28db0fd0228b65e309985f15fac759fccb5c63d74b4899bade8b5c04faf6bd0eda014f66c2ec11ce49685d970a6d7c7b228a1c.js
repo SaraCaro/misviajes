@@ -272,7 +272,7 @@ function fileClosure(){
   headingNodes.forEach(function(node){
     link = createEl('a');
     icon = createEl('img');
-    icon.src = 'https://example.com/images/icons/link.svg';
+    icon.src = 'https://saracaro.github.io/misviajes/images/icons/link.svg';
     link.className = 'link';
     link.appendChild(icon);
     id = node.getAttribute('id');
