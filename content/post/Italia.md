@@ -13,4 +13,5 @@ Yo llegué a visitar varios pueblos como San Gimignano, Vernazza, Siena, Florenc
 
 [Los pueblos de la Toscana](https://www.youtube.com/watch?v=fuV81IOV7SE)
 
+![italia](http://localhost:1313/misviajes/images/toscana.jpg)
 

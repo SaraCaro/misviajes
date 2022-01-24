@@ -11,4 +11,7 @@ de Holyroodhouse.
 El Calton Hill es una simple colina, que muestra unas vistas muy bonitas 
 de la ciudad, al igual que la Catedral de Edimburgo que también es muy bonita.
 
+
 [Que ver en Edimburgo](https://www.youtube.com/watch?v=vNiWBLzxPIg)
+
+![edimburgo](http://localhost:1313/misviajes/images/royal.jpg)

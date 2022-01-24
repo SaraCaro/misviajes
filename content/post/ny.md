@@ -10,5 +10,7 @@ En NY visité lo más básico, como el puente Brooklyn y Central Park, haciendol
 es ir en barco y pasar cerca de la Estatua de la
 Libertad, aunque pasar por la noche es mucho más increíble ya que ves la ciudad totalmente iluminada.
 
+![ny](http://localhost:1313/misviajes/images/ny2.png)
+
 [Recorrido por central Park](https://www.youtube.com/watch?v=kHqauFUT9hs)
 
